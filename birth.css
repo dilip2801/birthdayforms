@@ -1,0 +1,26 @@
+.form-group{
+    align-items: center;
+    padding: 15px;
+
+}
+.abc{
+    /* margin-top: 25%; */
+    background-color: rgb(145, 196, 203);
+    /* padding-left: 45%; */
+    width: 50vw;
+    height:50vh;
+    margin-left:25%;
+    margin-top: 10%;
+
+    align-items: center;
+    text-align: center;
+    padding-top: 70px;
+}
+.asd{
+    display: inline-block;
+    align-items: center;
+    width: 80%;
+}
+body{
+    background-color:bisque;
+}
