@@ -34,6 +34,7 @@
             }
             else{
                 require_once "database.php";
+                // require_once "schedule.php"; 
             
                 $sql = "INSERT INTO user (Name,email,date_of_birth) VALUES (?,?,?)";
                 $stmt = mysqli_stmt_init($conn);
